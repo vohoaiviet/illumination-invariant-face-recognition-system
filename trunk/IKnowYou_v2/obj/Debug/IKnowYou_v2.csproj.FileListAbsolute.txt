@@ -1,0 +1,129 @@
+C:\Documents and Settings\Shakya\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKnowYou_v2.exe
+C:\Documents and Settings\Shakya\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKnowYou_v2.pdb
+C:\Documents and Settings\Shakya\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Shakya\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.IKYv2FormMain.resources
+C:\Documents and Settings\Shakya\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.Properties.Resources.resources
+C:\Documents and Settings\Shakya\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Shakya\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.exe
+C:\Documents and Settings\Shakya\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.pdb
+C:\Documents and Settings\Shakya\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\WebCam_Capture.dll
+C:\Documents and Settings\Shakya\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\Emgu.CV.dll
+C:\Documents and Settings\Shakya\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\Emgu.CV.UI.dll
+C:\Documents and Settings\Shakya\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\Emgu.Util.dll
+C:\Documents and Settings\Shakya\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\zlib.net.dll
+C:\Documents and Settings\Shakya\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.FileControls.resources
+C:\Documents and Settings\Shakya\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\Eutility.dll
+C:\Documents and Settings\Shakya\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\Eutility.ctf
+C:\Documents and Settings\Subodh\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.exe
+C:\Documents and Settings\Subodh\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.pdb
+C:\Documents and Settings\Subodh\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKnowYou_v2.exe
+C:\Documents and Settings\Subodh\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKnowYou_v2.pdb
+C:\Documents and Settings\Subodh\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\Emgu.CV.dll
+C:\Documents and Settings\Subodh\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\Emgu.CV.UI.dll
+C:\Documents and Settings\Subodh\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\Emgu.Util.dll
+C:\Documents and Settings\Subodh\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\Eutility.dll
+C:\Documents and Settings\Subodh\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\zlib.net.dll
+C:\Documents and Settings\Subodh\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\Eutility.ctf
+C:\Documents and Settings\Subodh\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Subodh\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.FileControls.resources
+C:\Documents and Settings\Subodh\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.IKYv2FormMain.resources
+C:\Documents and Settings\Subodh\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.Properties.Resources.resources
+C:\Documents and Settings\Subodh\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Subodh\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKnowYou_v2.exe.config
+C:\Documents and Settings\Subodh\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKYDataBase.mdf
+C:\Documents and Settings\Subodh\My Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKYDataBase_log.ldf
+C:\Users\shambhu\Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKnowYou_v2.exe.config
+C:\Users\shambhu\Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.exe
+C:\Users\shambhu\Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.pdb
+C:\Users\shambhu\Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKYDataBase.mdf
+C:\Users\shambhu\Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKYDataBase_log.ldf
+C:\Users\shambhu\Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKnowYou_v2.exe
+C:\Users\shambhu\Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKnowYou_v2.pdb
+C:\Users\shambhu\Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\Emgu.CV.dll
+C:\Users\shambhu\Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\Emgu.CV.UI.dll
+C:\Users\shambhu\Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\Emgu.Util.dll
+C:\Users\shambhu\Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\Eutility.dll
+C:\Users\shambhu\Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\zlib.net.dll
+C:\Users\shambhu\Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\bin\Debug\Eutility.ctf
+C:\Users\shambhu\Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shambhu\Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.FileControls.resources
+C:\Users\shambhu\Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.IKYv2FormMain.resources
+C:\Users\shambhu\Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.Properties.Resources.resources
+C:\Users\shambhu\Documents\Visual Studio 2008\Projects\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.csproj.GenerateResource.Cache
+G:\swastik\course\major materials\Finished Components\Finished Components\Backup\IKnowYou_v2\14\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKnowYou_v2.exe.config
+G:\swastik\course\major materials\Finished Components\Finished Components\Backup\IKnowYou_v2\14\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.exe
+G:\swastik\course\major materials\Finished Components\Finished Components\Backup\IKnowYou_v2\14\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.pdb
+G:\swastik\course\major materials\Finished Components\Finished Components\Backup\IKnowYou_v2\14\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKYDataBase.mdf
+G:\swastik\course\major materials\Finished Components\Finished Components\Backup\IKnowYou_v2\14\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKYDataBase_log.ldf
+G:\swastik\course\major materials\Finished Components\Finished Components\Backup\IKnowYou_v2\14\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKnowYou_v2.exe
+G:\swastik\course\major materials\Finished Components\Finished Components\Backup\IKnowYou_v2\14\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKnowYou_v2.pdb
+G:\swastik\course\major materials\Finished Components\Finished Components\Backup\IKnowYou_v2\14\IKnowYou_v2\IKnowYou_v2\bin\Debug\Emgu.CV.dll
+G:\swastik\course\major materials\Finished Components\Finished Components\Backup\IKnowYou_v2\14\IKnowYou_v2\IKnowYou_v2\bin\Debug\Emgu.CV.UI.dll
+G:\swastik\course\major materials\Finished Components\Finished Components\Backup\IKnowYou_v2\14\IKnowYou_v2\IKnowYou_v2\bin\Debug\Emgu.Util.dll
+G:\swastik\course\major materials\Finished Components\Finished Components\Backup\IKnowYou_v2\14\IKnowYou_v2\IKnowYou_v2\bin\Debug\Eutility.dll
+G:\swastik\course\major materials\Finished Components\Finished Components\Backup\IKnowYou_v2\14\IKnowYou_v2\IKnowYou_v2\bin\Debug\zlib.net.dll
+G:\swastik\course\major materials\Finished Components\Finished Components\Backup\IKnowYou_v2\14\IKnowYou_v2\IKnowYou_v2\bin\Debug\Eutility.ctf
+G:\swastik\course\major materials\Finished Components\Finished Components\Backup\IKnowYou_v2\14\IKnowYou_v2\IKnowYou_v2\obj\Debug\ResolveAssemblyReference.cache
+G:\swastik\course\major materials\Finished Components\Finished Components\Backup\IKnowYou_v2\14\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.FileControls.resources
+G:\swastik\course\major materials\Finished Components\Finished Components\Backup\IKnowYou_v2\14\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.IKYv2FormMain.resources
+G:\swastik\course\major materials\Finished Components\Finished Components\Backup\IKnowYou_v2\14\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.Properties.Resources.resources
+G:\swastik\course\major materials\Finished Components\Finished Components\Backup\IKnowYou_v2\14\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.csproj.GenerateResource.Cache
+D:\temp\IKY use folder\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKnowYou_v2.exe.config
+D:\temp\IKY use folder\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.exe
+D:\temp\IKY use folder\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.pdb
+D:\temp\IKY use folder\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKYDataBase.mdf
+D:\temp\IKY use folder\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKYDataBase_log.ldf
+D:\temp\IKY use folder\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKnowYou_v2.exe
+D:\temp\IKY use folder\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKnowYou_v2.pdb
+D:\temp\IKY use folder\IKnowYou_v2\IKnowYou_v2\bin\Debug\Emgu.CV.dll
+D:\temp\IKY use folder\IKnowYou_v2\IKnowYou_v2\bin\Debug\Emgu.CV.UI.dll
+D:\temp\IKY use folder\IKnowYou_v2\IKnowYou_v2\bin\Debug\Emgu.Util.dll
+D:\temp\IKY use folder\IKnowYou_v2\IKnowYou_v2\bin\Debug\Eutility.dll
+D:\temp\IKY use folder\IKnowYou_v2\IKnowYou_v2\bin\Debug\zlib.net.dll
+D:\temp\IKY use folder\IKnowYou_v2\IKnowYou_v2\bin\Debug\Eutility.ctf
+D:\temp\IKY use folder\IKnowYou_v2\IKnowYou_v2\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\IKY use folder\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.FileControls.resources
+D:\temp\IKY use folder\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.IKYv2FormMain.resources
+D:\temp\IKY use folder\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.Properties.Resources.resources
+D:\temp\IKY use folder\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Subodh\Desktop\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKnowYou_v2.exe.config
+C:\Documents and Settings\Subodh\Desktop\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.exe
+C:\Documents and Settings\Subodh\Desktop\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.pdb
+C:\Documents and Settings\Subodh\Desktop\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKYDataBase.mdf
+C:\Documents and Settings\Subodh\Desktop\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKYDataBase_log.ldf
+C:\Documents and Settings\Subodh\Desktop\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKnowYou_v2.exe
+C:\Documents and Settings\Subodh\Desktop\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKnowYou_v2.pdb
+C:\Documents and Settings\Subodh\Desktop\IKnowYou_v2\IKnowYou_v2\bin\Debug\Emgu.CV.dll
+C:\Documents and Settings\Subodh\Desktop\IKnowYou_v2\IKnowYou_v2\bin\Debug\Emgu.CV.UI.dll
+C:\Documents and Settings\Subodh\Desktop\IKnowYou_v2\IKnowYou_v2\bin\Debug\Emgu.Util.dll
+C:\Documents and Settings\Subodh\Desktop\IKnowYou_v2\IKnowYou_v2\bin\Debug\Eutility.dll
+C:\Documents and Settings\Subodh\Desktop\IKnowYou_v2\IKnowYou_v2\bin\Debug\zlib.net.dll
+C:\Documents and Settings\Subodh\Desktop\IKnowYou_v2\IKnowYou_v2\bin\Debug\Eutility.ctf
+C:\Documents and Settings\Subodh\Desktop\IKnowYou_v2\IKnowYou_v2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Subodh\Desktop\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.FileControls.resources
+C:\Documents and Settings\Subodh\Desktop\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.IKYv2FormMain.resources
+C:\Documents and Settings\Subodh\Desktop\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.Properties.Resources.resources
+C:\Documents and Settings\Subodh\Desktop\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Subodh\Desktop\Project backup\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKnowYou_v2.exe.config
+C:\Documents and Settings\Subodh\Desktop\Project backup\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.exe
+C:\Documents and Settings\Subodh\Desktop\Project backup\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.pdb
+D:\Users\Subodh\IOE\IV_II\All Subjects\The Major Project\My Work Space\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKnowYou_v2.exe.config
+D:\Users\Subodh\IOE\IV_II\All Subjects\The Major Project\My Work Space\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.exe
+D:\Users\Subodh\IOE\IV_II\All Subjects\The Major Project\My Work Space\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.pdb
+D:\Users\Subodh\IOE\IV_II\All Subjects\The Major Project\My Work Space\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKYDataBase.mdf
+D:\Users\Subodh\IOE\IV_II\All Subjects\The Major Project\My Work Space\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKYDataBase_log.ldf
+D:\Users\Subodh\IOE\IV_II\All Subjects\The Major Project\My Work Space\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKnowYou_v2.exe
+D:\Users\Subodh\IOE\IV_II\All Subjects\The Major Project\My Work Space\IKnowYou_v2\IKnowYou_v2\bin\Debug\IKnowYou_v2.pdb
+D:\Users\Subodh\IOE\IV_II\All Subjects\The Major Project\My Work Space\IKnowYou_v2\IKnowYou_v2\bin\Debug\Emgu.CV.dll
+D:\Users\Subodh\IOE\IV_II\All Subjects\The Major Project\My Work Space\IKnowYou_v2\IKnowYou_v2\bin\Debug\Emgu.CV.UI.dll
+D:\Users\Subodh\IOE\IV_II\All Subjects\The Major Project\My Work Space\IKnowYou_v2\IKnowYou_v2\bin\Debug\Emgu.Util.dll
+D:\Users\Subodh\IOE\IV_II\All Subjects\The Major Project\My Work Space\IKnowYou_v2\IKnowYou_v2\bin\Debug\Eutility.dll
+D:\Users\Subodh\IOE\IV_II\All Subjects\The Major Project\My Work Space\IKnowYou_v2\IKnowYou_v2\bin\Debug\zlib.net.dll
+D:\Users\Subodh\IOE\IV_II\All Subjects\The Major Project\My Work Space\IKnowYou_v2\IKnowYou_v2\bin\Debug\Eutility.ctf
+D:\Users\Subodh\IOE\IV_II\All Subjects\The Major Project\My Work Space\IKnowYou_v2\IKnowYou_v2\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Subodh\IOE\IV_II\All Subjects\The Major Project\My Work Space\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.FileControls.resources
+D:\Users\Subodh\IOE\IV_II\All Subjects\The Major Project\My Work Space\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.IKYv2FormMain.resources
+D:\Users\Subodh\IOE\IV_II\All Subjects\The Major Project\My Work Space\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.Properties.Resources.resources
+D:\Users\Subodh\IOE\IV_II\All Subjects\The Major Project\My Work Space\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.csproj.GenerateResource.Cache
+D:\Users\Subodh\IOE\IV_II\All Subjects\The Major Project\My Work Space\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.SetPasswordForm.resources
+D:\Users\Subodh\IOE\IV_II\All Subjects\The Major Project\My Work Space\IKnowYou_v2\IKnowYou_v2\obj\Debug\IKnowYou_v2.EnterPassword.resources
