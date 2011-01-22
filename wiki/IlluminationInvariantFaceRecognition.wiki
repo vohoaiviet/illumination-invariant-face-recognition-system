@@ -1,5 +1,5 @@
 <h1>Illumination Invariant Face Recognition System</h1>
-<i><p>Illumination Invariant Face Recognition is able to recognize face under different illumination conditions.
+<i><p>Illumination Invariant Face Recognition is a face recognition system able to recognize human face under different illumination conditions.
 </p>
 </i>
 <h1>Introduction</h1>
